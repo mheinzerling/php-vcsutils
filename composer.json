@@ -1,5 +1,5 @@
 {
-  "name": "mheinzerling/ftputils",
+  "name": "mheinzerling/vcsutils",
   "description": "Collecting helper for Git and SVN.",
   "minimum-stability": "stable",
   "license": "MIT",
